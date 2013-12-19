@@ -1,6 +1,6 @@
 # Hello there!
 
-We've got a couple of open source projects for you to checkout. Also if you're a githubber and notice any issues with [FictFact.com](http://www.fictFact.com) or our [mobile site](http://m.fictfact.com) open an issue and we'll try to address it.
+We've got a couple of open source projects for you to checkout. If notice any issues with [FictFact.com](http://www.fictFact.com) or our [mobile site](http://m.fictfact.com) please open an issue and we'll address as soon as possible.
 
 **-- Brian, Christine, Richard, Sara and Sonoma**
 
