@@ -1,8 +1,8 @@
 # Hello there!
 
-We don't have any open source projects right now. If you'd like, open an issue in this repo and let us know what you were hoping to find :)
+We've got a couple of open source projects for you to checkout. Also if you're a githubber and notice any issues with FictFact.com or our mobile site open an issue and we'll try to address it.
 
-**-- casey and christina**
+**-- brian and christine**
 
-PS - if you are interested in the Ravelry API, check out [http://ravelry.com/groups/ravelry-api](http://ravelry.com/groups/ravelry-api)
+Note: This repo is forked from the ravelry's welcome repo. Don't know about ravelry? You should check them out!
 
