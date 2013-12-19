@@ -4,5 +4,5 @@ We've got a couple of open source projects for you to checkout. If notice any is
 
 **-- Brian, Christine, Richard, Sara and Sonoma**
 
-Note: This repo is forked from the ravelry's welcome repo. Don't know about [ravelry](https://www.ravelry.com)? You should check them out!
+Note: This repo is forked from the [ravelry's welcome repo](https://github.com/ravelry/ravelry-welcome). Don't know about [ravelry](https://www.ravelry.com)? You should check them out!
 
